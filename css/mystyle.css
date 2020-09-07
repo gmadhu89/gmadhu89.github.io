@@ -108,13 +108,13 @@ footer h6
 
 header 
 {
-    position: relative;
+    position: fixed;
 }
 
 header nav 
 {
-    font-size: 120%;
-    position: absolute;
+    font-size: 150%;
+    position: fixed;
     right: 0;
     top: 20px;
     margin-right: 25px;
